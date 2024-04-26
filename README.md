@@ -11,8 +11,8 @@ https://github.com/xenova/whisper-web/assets/26504141/fb170d84-9678-41b5-9248-a1
 1. Clone the repo and install dependencies:
 
     ```bash
-    git clone https://github.com/xenova/whisper-web.git
-    cd whisper-web
+    git clone https://github.com/santa116-1/Speech-recognition
+    cd Speech-recognition
     npm install
     ```
 
